@@ -1,7 +1,7 @@
 
 import streamlit
 streamlit.title('My Partens New Healthy Diner')
-Breakfast menu 
-Omega 3 & Bluebery Oatmeal
-Kale, Spinach & Rocekt Smoothy
-Hard-Boiled Free-Range Egg
+streamlit.header ('Breakfast menu')
+streamlit.text ('Omega 3 & Bluebery Oatmeal')
+streamlit.text ('Kale, Spinach & Rocekt Smoothy')
+streamlit.text ('Hard-Boiled Free-Range Egg')
