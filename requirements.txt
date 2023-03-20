@@ -1,0 +1,2 @@
+#reguirements.txt
+snowflake-connector-phyton
